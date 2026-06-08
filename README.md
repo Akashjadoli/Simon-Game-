@@ -21,7 +21,7 @@ A memory-based color sequence game built with HTML, CSS & Vanilla JavaScript.
 - Vanilla JavaScript
 
 ## Live Demo
-[Play Here](https://Akashjadoli.github.io/simon-game)
+[Play Here](https://akashjadoli.github.io/Simon-Game-/)
 
 ## Author
 Made with ❤️ by Akash
