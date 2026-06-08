@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: #1a0533;
+    color: #ffffff;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 25%;
+    border: 10px solid grey;
+    margin: 2rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
+@keyframes breathe {
+    0%, 100%{ transform: scale(1);}
+    50%{transform: scale(1.08);}
+}
+
+.btn.breathing {
+    animation: breathe 1.5s ease-in-out infinite;
+}
